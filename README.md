@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GUAawa (just call me GUA)
 - 👀 I’m interested in esolangs
-- 🌱 I’m currently desining TypeString (T~)
+- 🌱 I’m currently desining (nothing)
 - 💞️ I’m looking to collaborate on (nothing temporarily)
 - 📫 How to reach me (no convinient way temporarily)
 
